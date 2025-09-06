@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Verónica
+Frontend Developer | HTML, CSS, Tailwind, JS, React
 
-<!--
-**vernicadelvalles/vernicadelvalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tecnologías
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-Here are some ideas to get you started:
+## 🌟 Proyectos destacados
+- Portfolio Personal [Demo](https://tudemo.netlify.app)
+- E-commerce Frontend
+- Mini Juegos JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Extras
+- GIFs de tus apps, screenshots coloridos
+- Emojis para secciones (💻, 🖌️, ⚡)
+
