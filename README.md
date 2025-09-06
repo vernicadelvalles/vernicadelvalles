@@ -13,9 +13,7 @@ Frontend Developer | HTML, CSS, Tailwind, JS, React
 - Mini Juegos JS  
 
 ## 📊 Estadísticas de GitHub  
-![Verónica's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)  
+![Verónica's GitHub stats](https://github-readme-stats.vercel.app/api?username=verodelvalles&show_icons=true&theme=dracula)
 
 ## 🎨 Extras  
 - GIFs de tus apps, screenshots coloridos  
